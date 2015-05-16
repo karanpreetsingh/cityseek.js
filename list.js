@@ -270,6 +270,19 @@ city[1][2] = "Ab Band Matkat|Ab Cenar";
 city[2] = new Array();
 city[2][0] = "";
 city[2][1] = "";
+/*Cities of Austria*/
+city[13][0] = "";
+city[13][1] = "";/*Burgenland*/
+city[13][2] = "";/*Kaernten*/
+city[13][3] = "";/*Niederoesterreich*/
+city[13][4] = "";/*Oberoesterreich*/
+city[13][5] = "";/*Salzburg*/
+city[13][6] = "";/*Steiermark*/
+city[13][7] = "";/*Tirol*/
+city[13][8] = "";/*Vorarlberg*/
+city[13][9] = "";/*Wien*/
+
+
 
 city[83] = new Array(); /*List of cities in all states of Germany*/
 city[83][0] = "";

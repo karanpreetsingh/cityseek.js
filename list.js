@@ -259,7 +259,7 @@ state[251]="Central|Copperbelt|Eastern|Luapula|Lusaka|North-Western|Northern|Sou
 state[252]="Bulawayo|Harare|ManicalandMashonaland Central|Mashonaland East|Mashonaland West|Masvingo|Matabeleland North|Matabeleland South|Midlands";
 /* List of states of all countries of the world Ends */
 
-/*List of all cities of all states of the world*/
+/*List of all cities of all  states of the world*/
 var city= new Array();
 /*Cities of Afghanistan*/
 city[1] = new Array();

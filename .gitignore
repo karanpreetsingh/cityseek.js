@@ -1,5 +1,4 @@
 .DS_Store
 *.css.map
-core/target
 taglib/
 **/node_modules/*
